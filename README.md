@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Javier Tapia 
-**Software Engineer Student** 🎓
+## Software Engineer Student 🎓
 
 <br></br>
 
-### Languajes Programming**
+### Languajes Programming
 
 <br> <a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <br> <a  target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -12,6 +12,7 @@
 <br> <a  target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <br> <a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 
+<!--
 ### Frameworks
 
 ### Web Development
@@ -27,6 +28,7 @@
 
 <a target="_blank"> <img src="https://camo.githubusercontent.com/8e78d983214b500b10f523fbd192f6c3b4ba408d5dfa6c156b6549faa326a8cf/68747470733a2f2f736f6d6f73746563686965732e636f6d2f636f6e74656e742f696d616765732f323031392f30382f4153502d4e45542d436f72652d4c6f676f2d312e706e67" alt="xamarin" /> </a>
 </p>
+-->
 
 
 
