@@ -1,6 +1,13 @@
-## Hi there 👋 I'm Javier Tapia 
-## Software Engineering 🎓
+# Javier Tapia Amaro
 
+### Soy Ingeniero en Software, con dos años de experiencia como profesional back- end con .NET; he trabajado exitosamente en diversos proyectos empresariales el ambiente público y privado, mi área de expertis se encuentra en el desarrollo de sistemas web y de escritorio.
+### Mi personalidad autodidacta, me ha llevado a realizar certificaciones en tecnologías Cloud, diversos bootcamps y participar en diversos hackathones internacionales. 🖥️
+### Me gusta ser parte de la evolución del mundo tech, buscando nuevos retos para desarrollar y mejorar mis habilidades profesionales,  continuar aprendiendo y adaptando nuevas tecnologías a diversos proyectos como nómada digital 🖱️.
+
+### 👉🏼Me encantaría ser parte de tu proyecto, comunícate conmigo en developer@javiertapia.dev 👈🏼
+
+
+<!--
 <br></br>
 
 ### Languajes Programming
@@ -10,7 +17,7 @@
 
 ### Page Page under construction 
 
-<!--
+
 ### Frameworks
 
 ### Web Development
