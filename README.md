@@ -4,7 +4,7 @@
 ### My self-taught personality has led me to pursue certifications in Cloud technologies, attend various bootcamps, and participate in multiple international hackathons. 🖥️
 ### I enjoy being part of the tech world's evolution, constantly seeking new challenges to develop and enhance my professional skills. I am committed to continuous learning and adapting new technologies to various projects as a digital nomad. 🖱️
 
-### 👉🏼I would love to be part of your project, contact me at developer@javiertepia.dev👈🏼
+### 👉🏼I would love to be part of your project, contact me at javiertapiadev@gmail.com👈🏼
 
 
 <!--
