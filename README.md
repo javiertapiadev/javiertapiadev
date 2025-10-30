@@ -26,18 +26,33 @@ Soy un ingeniero apasionado por el desarrollo de software y la divulgación tecn
 
 ## 🧠 Stack Tecnológico
 
-#### Lenguajes de programación
-<a target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C#" width="40" height="40"/> </a> <a target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="C#" width="40" height="40"/> </a>
-
-#### Bases de datos
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-
-#### Herramientas
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg" alt="docker" width="40" height="40"/> </a> 
-
-
-### Front-end
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="mssql" width="40" height="40"/> <img src="https://astro.build/assets/press/astro-icon-dark.svg" alt="nodejs" width="40" height="40"/><a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <h4>🧩 Lenguajes de programación</h4>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="40" alt="C#" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="40" alt="JavaScript" />
+    </td>
+    <td align="center" width="25%">
+      <h4>🗄️ Bases de datos</h4>
+      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" alt="SQL Server" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL" />
+    </td>
+    <td align="center" width="25%">
+      <h4>🛠️ Herramientas</h4>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git" />
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" alt="Postman" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg" width="40" alt="Docker" />
+    </td>
+    <td align="center" width="25%">
+      <h4>🎨 Front-end</h4>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="40" alt="Vue.js" />
+      <img src="https://astro.build/assets/press/astro-icon-dark.svg" width="40" alt="Astro" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" alt="Sass" />
+    </td>
+  </tr>
+</table>
 
 ---
 <!--
