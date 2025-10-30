@@ -17,7 +17,7 @@ Soy un ingeniero apasionado por el desarrollo de software y la divulgación tecn
 - 🎥 Creo contenido para enseñar fundamentos de programación, buenas prácticas y lo más actual del mundo Tech.
 
 📫 **Conecta conmigo:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-JavierTapia-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/javiertapia](https://www.linkedin.com/in/javiertapiasoftwareengineer/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JavierTapia-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/javiertapiasoftwareengineer/)
 [![Portfolio](https://img.shields.io/badge/Portfolio%20%7C%20JavierTapiaDev-black?style=for-the-badge)](https://javiertapia.dev)
 
 
@@ -76,5 +76,5 @@ Comparto videos sobre desarrollo de software y consejos para mejorar tus proyect
 Te invito a seguirme si te interesa aprender sobre programación de forma clara y práctica.
 
 [![Instagram](https://img.shields.io/badge/Instagram-@JavierTapiaDev-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/javiertapia_dev/)
-[![TikTok](https://img.shields.io/badge/TikTok-@JavierTapiaDev-black?style=for-the-badge&logo=tiktok)]([https://tiktok.com/@javierdev](https://www.tiktok.com/@javiertapiadev))
+[![TikTok](https://img.shields.io/badge/TikTok-@JavierTapiaDev-black?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@javiertapiadev)
 
